@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital@1&family=PT+Sans&family=Stick+No+Bills:wght@800&display=swap');
+
+body {
+    margin: 0;
+    background-color: #9B8686;
+    font-family: 'Bona Nova', serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Stick No Bills', sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    width: 298px;
+    text-align: justify;
+    margin-bottom: 7.5rem;
+}
+
+#img {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    background-image: url(../../../img/Pexels.jpg);
+    background-size: cover;
+    flex-direction: column;
+}
+
+.texte {
+    background-color: #D9D9D966;
+    width: 18.4rem;
+
+}
+
+.card-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
+    background-color: white;
+    align-items:center;
+    padding: 0.2rem;
+    
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.icones {
+    
+    background-color: transparent;
+}
