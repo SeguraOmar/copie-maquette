@@ -53,10 +53,7 @@ body {
 }
 
 
-
-
-body>div.bloc-connexion>div.Validation>input[type=submit] {
-
+#Valider {
     background-color: #1F9D2B;
     color: white;
     border: none;
@@ -65,6 +62,8 @@ body>div.bloc-connexion>div.Validation>input[type=submit] {
     text-align: center;
     width: 112px;
 }
+
+
 
 #forgot {
     background-color: #D9D9D9;

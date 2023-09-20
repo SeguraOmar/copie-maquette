@@ -44,7 +44,7 @@ body {
   margin-top: 2rem;
 }
 
-body > div.bloc-connexion > div.Validation > input[type=submit] {
+#Valider {
   background-color: #1F9D2B;
   color: white;
   border: none;
